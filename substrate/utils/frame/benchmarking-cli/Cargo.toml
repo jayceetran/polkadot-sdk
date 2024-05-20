@@ -20,7 +20,7 @@ codec = { package = "parity-scale-codec", version = "3.6.1" }
 comfy-table = { version = "7.0.1", default-features = false }
 handlebars = "4.2.2"
 Inflector = "0.11.4"
-itertools = "0.10.3"
+itertools = "0.12.1"
 lazy_static = "1.4.0"
 linked-hash-map = "0.5.4"
 log = "0.4.17"
