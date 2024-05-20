@@ -18,7 +18,7 @@ proc-macro = true
 derive-syn-parse = "0.1.5"
 Inflector = "0.11.4"
 cfg-expr = "0.15.5"
-itertools = "0.10.3"
+itertools = "0.12.1"
 proc-macro2 = "1.0.56"
 quote = "1.0.28"
 syn = { version = "2.0.39", features = ["full"] }
